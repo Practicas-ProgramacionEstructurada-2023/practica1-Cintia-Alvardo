@@ -7,14 +7,14 @@ namespace MyApp// Note: actual namespace depends on the project name.
          static void Main(string[] args)
         {
             //Declaración de variables
-            string = nombre
-            int = edad
-            string = dirección
-            int = telefono
-            string = Univercidad
-            string = carrera
-            string = facultad
-            int = ciclo
+            string nombre;
+            int edad;
+            string dirección;
+            int telefono;
+            string Univercidad;
+            string carrera;
+            string facultad;
+            int ciclo;
 
             Console.WriteLine("\n******************Practica 1 - Programación Estructurada******************\n")
             Console.WriteLine("Ingresa tu nombre completo:")//Obtener Datos
