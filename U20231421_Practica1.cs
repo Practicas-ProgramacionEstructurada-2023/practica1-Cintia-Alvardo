@@ -23,27 +23,27 @@ namespace MyApp// Note: actual namespace depends on the project name.
 
             Console.WriteLine("Ingresa tu edad:")//Obtener Datos
             edad = Convert.ToInt32(Console.ReadLine());
-             Console.WriteLine("\n")
+            Console.WriteLine("\n")
 
             Console.WriteLine("Ingresa tu dirección:")//Obtener Datos
             dirección = Convert.ToString(Console.ReadLine());
-             Console.WriteLine("\n")
+            Console.WriteLine("\n")
 
             Console.WriteLine("Ingresa tu telefo:")//Obtener Datos
             telefono = Convert.ToInt32(Console.ReadLine());
-             Console.WriteLine("\n")
+            Console.WriteLine("\n")
 
             Console.WriteLine("Ingresa a la Universidad que vas:")//Obtener Datos
             Universidad = Convert.ToString(Console.ReadLine());
-             Console.WriteLine("\n")
+            Console.WriteLine("\n")
 
             Console.WriteLine("Ingresa tu carrera:")//Obtener Datos
             carrera = Convert.ToString(Console.ReadLine());
-             Console.WriteLine("\n")
+            Console.WriteLine("\n")
 
             Console.WriteLine("Ingresa tu facultad:")//Obtener Datos
             facultad = Convert.ToString(Console.ReadLine());
-             Console.WriteLine("\n")
+            Console.WriteLine("\n")
 
             Console.WriteLine("Ingresa tu ciclo:") //Obtener Datos
             ciclo = Convert.ToInto32(Console.ReadLine());
