@@ -6,7 +6,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
     {
          static void Main(string[] args)
         {
-            //Declarion de variables
+            //Declarion de variables Declaración de Variables 
             string? nombre;
             int edad;
             string? direccion;
